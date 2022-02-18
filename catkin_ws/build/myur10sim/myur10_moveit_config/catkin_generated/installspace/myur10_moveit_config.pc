@@ -1,0 +1,8 @@
+prefix=/home/fgp_repo/farscope_group_project/catkin_ws/install
+
+Name: myur10_moveit_config
+Description: Description of myur10_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

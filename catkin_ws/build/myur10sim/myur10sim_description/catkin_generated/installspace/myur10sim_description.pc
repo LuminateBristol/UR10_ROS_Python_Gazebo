@@ -1,0 +1,8 @@
+prefix=/home/fgp_repo/farscope_group_project/catkin_ws/install
+
+Name: myur10sim_description
+Description: Description of myur10sim_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/fgp_repo/farscope_group_project/catkin_ws/devel
+
+Name: ur10_python
+Description: Description of ur10_python
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

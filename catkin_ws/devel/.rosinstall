@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/fgp_repo/farscope_group_project/catkin_ws/devel/setup.sh
